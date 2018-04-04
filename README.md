@@ -6,7 +6,7 @@ Create an excel file in the same directory as the script called "sequencing_xcel
 
 Note: umich_seq_py2.py is written in python2 and umich_seq_py3.py is written in python3.
 
-This code has been validated on Mac.
+This script works on Mac and Windows.
 
 ## Dependencies
  - pandas
